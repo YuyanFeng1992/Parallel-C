@@ -1,4 +1,4 @@
-# Parallel-C
+//# Parallel-C
 #include "sys/time.h"
 #include "stdio.h"
 #include "string.h"
